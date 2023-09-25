@@ -1,8 +1,3 @@
-<div align="center">
-      <h1> <img src=" " width="80px"><br/>Vedic Vaidya</h1>
-     </div>
-
-
 # Description
 Empowering users to identify and learn about medicinal plants through a user-friendly mobile and web app, leveraging AI-driven image recognition and community engagement for a comprehensive plant identification experience.
 
