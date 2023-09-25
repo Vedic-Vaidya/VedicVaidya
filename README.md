@@ -12,7 +12,8 @@ Empowering users to identify and learn about medicinal plants through a user-fri
       
 ## Project Design⚙:
 
-![SIH](https://github.com/Vedic-Vaidya/VedicVaidya/assets/59119736/5a6a8ca9-05b5-42e4-a554-4b4ccae281bc)
+![SIH](https://github.com/Vedic-Vaidya/VedicVaidya/assets/59119736/94880c51-b5ce-4eeb-80d5-155bc5994866)
+
 
 
 ### Find API Documentation at:
